@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IliyaFrahani
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Ai , Machine learning
-- 😎 my Instagram : https://www.instagram.com/python_liya/
+- 😎 my Instagram : https://www.instagram.com/liya__unknown
 - 💜 Python_Developer
 - 🎨 Frontend_Developer
 
