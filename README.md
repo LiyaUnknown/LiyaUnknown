@@ -1,4 +1,4 @@
-<h1 align="center">OH , Hi 😃👋 Liya is Here</h1>
+<h1 align="center">OH , Hi 😃 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Liya is Here</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/054e827b66435f6782ec67fb788f20a3/tumblr_mzb9avELJk1qza1qzo1_400.gifv"</img>
 <h3 align="left">Hi, I’m Ilya, a young and passionate programmer who loves technology. I have been fascinated by this field since I was 10 years old. I’m currently working on and learning about projects involving RNN, neural network, ML, and AI. I always try to move forward and improve myself. 🚀👨‍💻🧠
 </h3>
