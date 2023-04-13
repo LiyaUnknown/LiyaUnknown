@@ -35,8 +35,6 @@
 <h3  align = "left">More :</h3>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=iliyafrahani&show_icons=true&locale=en" alt="iliyafrahani" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliyafrahani&show_icons=true&locale=en" alt="iliyafrahani" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iliyafrahani&" alt="iliyafrahani" />
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iliyafrahani&show_icons=true&locale=en&layout=compact" alt="iliyafrahani" />
+
