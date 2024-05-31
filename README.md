@@ -1,6 +1,6 @@
 <h1 align="center">OH , Hi 😃 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Liya is Here</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/054e827b66435f6782ec67fb788f20a3/tumblr_mzb9avELJk1qza1qzo1_400.gifv"</img>
-<h3 align="left">Hi, I’m Ilya, a young and passionate programmer who loves technology. I have been fascinated by this field since I was 10 years old. I’m currently working on and learning about projects involving RNN, neural network, ML, and AI. I always try to move forward and improve myself. 🚀👨‍💻🧠
+<h3 align="left">Just normal person , like others
 </h3>
 
 - 🔭 I’m currently working on **text generation using Rnn**
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python | Ai | NN (nural network)**
 
-- 📫 How to reach me **iliyaarshia123@gmail.com**
+- 📫 How to reach me **iliyafarahani729@gmail.com**
 
 - ⚡ Fun fact is **Computer was a job title, not a machine, in the early 20th century. The first programmers were women who worked as human computers to perform calculations for various projects.**
 
