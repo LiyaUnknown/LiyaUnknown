@@ -2,7 +2,7 @@
 <div style="position: relative; text-align: center;">
   <img src="https://pbs.twimg.com/profile_banners/1651156154645454849/1717537962/1500x500" alt="Header Image" style="width: 100%; opacity: 0.8; filter: brightness(70%);">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
-    <h1>OH , Hi 😃 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Liya is Here</h1>
+    <h1>OH , Hi 😃 <a href="https://www.gautamkrishnar.com/"><img src="https://github.com/LiyaUnknown/Ai_Faces_Generation/blob/main/gen32.png" width="5%"></a> Liya is Here</h1>
     <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/054e827b66435f6782ec67fb788f20a3/tumblr_mzb9avELJk1qza1qzo1_400.gifv"></img>
     <h3 align="left">Just normal person, like others</h3>
     <ul align="left">
