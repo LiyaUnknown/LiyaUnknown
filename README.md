@@ -6,11 +6,9 @@
     <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/054e827b66435f6782ec67fb788f20a3/tumblr_mzb9avELJk1qza1qzo1_400.gifv"></img>
     <h3 align="left">Just normal person, like others</h3>
     <ul align="left">
-      <li>🔭 ( Financial Data Science / Quantitative Finance ) Researcher</li>
+      <li>🤝 ( Financial Data Science / Quantitative Finance ) Researcher</li>
       <li>🔭 I’m currently working on <strong>text generation using Rnn</strong></li>
       <li>🌱 I’m currently working & learning on Transformers models / Financial Projects</li>
-      <li>👯 I’m looking to collaborate on <strong>Chat bot Project</strong></li>
-      <li>🤝 I’m looking for help with <strong>Chat bot Project</strong></li>
       <li>📝 I regularly write articles on <a href="https://liyafarahani.medium.com/everything-about-neural-networks-for-beginners-234d2746c0c4">Medium</a></li>
       <li>💬 Ask me about <strong>TRANSFORMERS MODEL | NN (neural network) | LSTM | KANS | MLPS | RNN</strong></li>
       <li>📫 How to reach me <strong>iliyafarahani729@gmail.com</strong></li>
