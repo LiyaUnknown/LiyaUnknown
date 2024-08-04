@@ -7,7 +7,7 @@
     <h3 align="left">Just normal person, like others</h3>
     <ul align="left">
       <li>🤝 ( Financial Data Science / Quantitative Finance ) Researcher</li>
-      <li>🔭 I’m currently working on <strong>text generation using Rnn</strong></li>
+      <li>🔭 I’m currently working on <strong>Trading bots using rl & gan</strong></li>
       <li>🌱 I’m currently working & learning on Transformers models / Financial Projects</li>
       <li>📝 I regularly write articles on <a href="https://liyafarahani.medium.com/everything-about-neural-networks-for-beginners-234d2746c0c4">Medium</a></li>
       <li>💬 Ask me about <strong>TRANSFORMERS MODEL | NN (neural network) | LSTM | KANS | MLPS | RNN</strong></li>
