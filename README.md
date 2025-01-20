@@ -11,7 +11,7 @@
       <li>🌱 I’m currently working & learning on Transformers models / Financial Projects</li>
       <li>📝 I regularly write articles on <a href="https://liyafarahani.medium.com/everything-about-neural-networks-for-beginners-234d2746c0c4">Medium</a></li>
       <li>💬 Ask me about <strong>TRANSFORMERS MODEL | NN (neural network) | LSTM | KANS | MLPS | RNN</strong></li>
-      <li>📫 How to reach me <strong>iliyafarahani729@gmail.com</strong></li>
+      <li>📫 How to reach me <strong>iliya.farahani85@gmail.com</strong></li>
       <li>⚡ Fun fact is <strong>Computer was a job title, not a machine, in the early 20th century. The first programmers were women who worked as human computers to perform calculations for various projects.</strong></li>
     </ul>
   </div>
